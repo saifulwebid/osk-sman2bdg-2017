@@ -28,7 +28,7 @@ Karena Sabtu (28/1 &mdash; Hari Raya Imlek) dan Sabtu (4/2 &mdash; bazaar) libur
 
 ## Sabtu, 21 Januari 2017
 
-
+Hari ini kita membahas lima soal: OSK 2016 nomor 29, 30, 31, 22, dan 17.
 
 ---
 

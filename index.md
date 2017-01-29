@@ -4,6 +4,34 @@ Pada portal ini tersedia semua bahan yang saya berikan dalam pelatihan OSK Kompu
 
 ---
 
+## Sabtu, 28 Januari 2017
+
+Libur Hari Raya Imlek.
+
+---
+
+## Jumat, 27 Januari 2017
+
+* [Materi Kombinatorik](Jan-27/Kombinatorik.pdf)
+
+Referensi eksternal yang menjadi rujukan:
+
+* http://julio.staff.ipb.ac.id/files/2014/02/slide-02-kombinatorika.pdf
+* https://matreg1pasca.files.wordpress.com/2012/05/kombin-matematika-diskrit_rini-copy.pdf
+
+Karena Sabtu (28/1 &mdash; Hari Raya Imlek) dan Sabtu (4/2 &mdash; bazaar) libur, jadi disepakati hari ini bahwa kita akan ganti jamnya ke dua pertemuan:
+
+* Jumat (3/2) dari jam 13.00 s.d. 16.00 WIB;
+* Jumat (10/2) dari jam 13.00 s.d. 16.00 WIB.
+
+---
+
+## Sabtu, 21 Januari 2017
+
+
+
+---
+
 ## Jumat, 20 Januari 2017
 
 * [Presentasi Pengantar OSK Komputer 2017](Jan-20/Pengantar OSK Komputer 2017.pdf)

@@ -4,6 +4,26 @@ Pada portal ini tersedia semua bahan yang saya berikan dalam pelatihan OSK Kompu
 
 ---
 
+## Jumat, 10 Februari 2017
+
+Pertemuan ini sekaligus mengganti pertemuan hari Jumat, 3 Februari 2017. Latihan dimulai jam 13.30 s.d. 16.30 WIB.
+
+Penugasan: kerjakan [https://training.ia-toki.org/problemsets/8/problems/14/](https://training.ia-toki.org/problemsets/8/problems/14/), lalu kirimkan ke [muhammad@saiful.web.id](mailto:muhammad@saiful.web.id) jawaban dari masing-masing soal, tingkat kepercayaan diri (A: pede banget -- B: kebayang, tapi nggak bisa ngerjain -- C: nggak kebayang sama sekali), dan capture nilai dari portal training.
+
+---
+
+## Sabtu, 4 Februari 2017
+
+Diliburkan karena pelaksanaan F2WL.
+
+---
+
+## Jumat, 3 Februari 2017
+
+Diliburkan karena persiapan F2WL.
+
+---
+
 ## Sabtu, 28 Januari 2017
 
 Libur Hari Raya Imlek.

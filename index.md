@@ -4,6 +4,16 @@ Pada portal ini tersedia semua bahan yang saya berikan dalam pelatihan OSK Kompu
 
 ---
 
+## Kamis, 16 Februari 2017
+
+Program pertemuan ini latihan mandiri di ComLabs. Saya mohon maaf tidak dapat hadir karena sakit.
+
+Saya sudah menyiapkan latihan untuk dikerjakan dari jam 16.00 - 17.15, 10 soal untuk 40 menit, dan dapat diakses di [https://osk17.saiful.web.id/mod/quiz/view.php?id=2](https://osk17.saiful.web.id/mod/quiz/view.php?id=2) menggunakan username dan password yang kemarin saya bagikan di pertemuan hari Sabtu (11/2).
+
+Selamat berlatih!
+
+---
+
 ## Sabtu, 11 Februari 2017
 
 * [Account.pdf](Feb-11/Account.pdf)
